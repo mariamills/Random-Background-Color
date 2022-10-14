@@ -22,7 +22,7 @@ This random background color generator was initially simply a pretty straightfor
 
 ## Demo
 
-To be added
+https://random-background-generator.netlify.app/
 
 
 ## To do
